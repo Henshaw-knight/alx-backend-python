@@ -1,0 +1,1 @@
+This directory deals with Variable annotations which is a concept that allow developers to add type hints to variables. These hints improve code readability and help tools like linters and IDEs to catch type-related errors during development. This task involves understanding how to use variable annotations effectively in Python.
