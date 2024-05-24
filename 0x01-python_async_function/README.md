@@ -1,0 +1,2 @@
+Asynchronous programming is a method of writing concurrent code in Python. It allows for the execution of multiple tasks at the same time, improving the efficiency and responsiveness of your applications.
+Python provides support for asynchronous programming primarily through the asyncio module, which includes support for coroutines, event loops, and tasks. This directory provides how to utilize asynchronous features in Python using asyncio.
